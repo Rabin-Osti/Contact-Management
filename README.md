@@ -20,6 +20,7 @@ Sort the list of contacts alphabetically using selection sort
 Display all contacts in the list
 
 Limitations
+
 This program has a few limitations that users should be aware of:
 
 The phone number field is limited to 10 characters, which may not be sufficient for some users.
